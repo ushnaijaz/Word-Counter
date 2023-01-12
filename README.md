@@ -1,6 +1,6 @@
 # Word-Counter
 
-This code is a simple word counting application that allows the user to select a file (in the format of .docx, .pdf, or .txt) and displays the number of occurrences of each word in the file.
+This code is a simple word counting application for first and second semester students. It allows the user to select a file (in the format of .docx, .pdf, or .txt) and displays the number of occurrences of each word in the file.
 
 ## Functionality
  
